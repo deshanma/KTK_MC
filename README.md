@@ -1,2 +1,2 @@
 # KTK_MC
-Kids teach kinds to build MC mod.
+Kids teach kids to build MC mod.
