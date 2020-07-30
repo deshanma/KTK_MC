@@ -12,5 +12,6 @@ public class FirstBlock extends Block {
         );
         setRegistryName("firstblock");
 
+
     }
 }
